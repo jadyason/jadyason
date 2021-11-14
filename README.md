@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @jadyason
-- 🌱 I’m currently learning ...
+- 🌱 I’m currently learning cyber security and playing with CTFs.
 
 
 <!---
